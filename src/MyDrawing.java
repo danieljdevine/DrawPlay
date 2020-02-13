@@ -5,11 +5,11 @@ import javax.swing.JPanel;
 
 
 public class MyDrawing extends JPanel {
-	private Cat cat;
+	private Person cat;
 	public MyDrawing() 
 	{
 		// Add critters to the drawing
-		cat = new Cat();
+		cat = new Person();
 	}
 	// paintComponent is called automatically when the frame needs
 	// to display (e.g., when the program starts)
