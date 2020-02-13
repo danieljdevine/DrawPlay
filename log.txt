@@ -1,0 +1,9 @@
+455a75ff9915b246ca28b6f10e611c63e7e91afb Changed head to be an oval. Refactored HEAD_DIMENSION -> HEAD_WIDTH and created variable HEAD_HEIGHT
+7ae3458b1110ae5346166885b051427a47db9058 Changed 'cat' to 'man', refactored catX -> manX and catY -> manY, changed quote from meow to hey
+ac19748ae898941ee9ec92d50e599fc21fe404ba Changed MOUTH_X to HEAD_DIMENSION/7*2 and MOUTH_Y to HEAD_DIMENSION/4*2
+d1bc7990895f79db02913fd73bdb0f294d0dfcb3 changed EYE_WIDTH and EYE_HEIGHT to 35 and MOUTH_WIDTH to HEAD_DIMENSTION/2
+16a727e09c1ce27e364e3a90ed7cd54b2d4ce2c1 Changed HEAD_DIMENSION to 150
+fd6aa58f44afcdb156307b233457b7263f470e70 changed EYE_HEIGHT and EYE_WIDTH to 15
+fc2f9d044cc056b49f320c73ab8565929e26bd51 Changed cat color to orange
+818ec41568e272a835bfd76918802e672a5a8902 initial commit
+54fbf149e69b23692f6e0c37a77857632268a11a Initial commit
